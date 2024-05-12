@@ -1,0 +1,62 @@
+List 10 câu hỏi 
+1.What is the weight of an object? (C)
+A. The attractive forces between particles in the object
+B. The gravitational potential energy of the object
+C. The force of gravity on the object
+D. The mass of the object 
+
+2.A man pulls a sledge of mass 25kg across level ground with a horizontal force of 60 N
+     A constant force of friction of 20N acts on the sledge.
+What is the acceleration of the sledge?(B)
+A.  0.63m/s^2 
+B.  1.6m/s^2 
+C.  2.4m/s^2
+D. 3.2m/s^2
+
+3.Which description of diffusion is correct?(D)
+A. The random movement of particles due to bombardment by larger particles.
+B. The random movement of particles due to bombardment by smaller particles.
+C. The random movement of particles from a low concentration to a high concentration.
+D. The random movement of particles from a high concentration to a low concentration.
+
+4.Which statement about aluminium oxide is correct ?(C)
+A. Aluminium atoms and oxygen atoms share electrons to form aluminium oxide molecules.
+B. Aluminium oxide is a giant structure made up of aluminium and oxygen atoms bonded covalently.
+C. Aluminium ions and oxide ions are attracted to each other in a giant lattice.
+D. Aluminium oxide is an electrical conductor in solid state with mobile aluminium ions and oxide ions.
+
+5.The assets that can be converted into cash within a short period(less than 1 year) are as known as.(A)
+A. Current assets 
+B. Fixed assets
+C. Intangible assets 
+D. Investments
+
+6.The debts which are to be repaid within a short period( less than 1 year) are known as.(A)
+A. Current liabilities
+B. Fixed liabilities
+C. Contingent liabilities
+D. All of the above
+
+7.Which molecule contains only three shared pairs of electrons?(A)
+A. N2
+B.CH3OH
+C.CO2
+D.H20 
+
+8.which substance has a similar structure to diamond?(C)
+A. Carbon dioxide
+B. Graphite 
+C. Silicon(IV) oxide 
+D. Sodium chloride
+
+9.What is the molecular formula of caffeine?(B)
+A. C8H11N4O2
+B. C8H10N4O2
+C. C8H10N3O2
+D. C7H10N4O2 
+
+10.Any written evidence in support of a business transaction is called (D)
+A. Journal
+B. Ledger
+C. Ledger posting 
+D. Voucher
