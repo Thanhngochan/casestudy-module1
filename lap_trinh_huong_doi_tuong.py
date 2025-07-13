@@ -80,13 +80,13 @@ while True:
         try:
             diem = float(input("Nhập điểm mới: "))
             sv1.cap_nhat_diem(diem)
-            print("✅ Đã cập nhật điểm.")
+            print("Đã cập nhật điểm.")
         except ValueError:
-            print("❌ Điểm không hợp lệ. Vui lòng nhập số.")
+            print("Điểm không hợp lệ. Vui lòng nhập số.")
     elif lua_chon == "3":
         sv1.kiem_tra_hoc_luc()
     elif lua_chon == "4":
-        print("👋 Kết thúc chương trình.")
+        print("Kết thúc")
         break
     else:
-        print("❗ Lựa chọn không hợp lệ.")
+        print(" Không hợp lệ.")
