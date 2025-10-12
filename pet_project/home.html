@@ -1,17 +1,45 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Header Demo</title>
+  <!-- Liên kết CSS -->
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+  <!-- HEADER -->
   <header>
-     <div id="container_id" class="container">
-      <img src="logo_beso.png" class="logo">
-     </div> 
+    <div class="promo">Miễn phí vận chuyển toàn quốc cho đơn &gt; 1.000.000đ</div>
 
-</header>
+    <nav class="nav">
+      <div class="brand">
+        <img src="logo_beso.png"  class="logo" />
+        <span>BE·SO</span>
+      </div>
+
+      <div class="navlinks">
+        <a href="#">Trang chủ</a>
+        <a href="#">Danh mục</a>
+        <a href="#">Liên hệ</a>
+      </div>
+
+      <div class="search">
+        <input type="text" placeholder="Tìm kiếm sản phẩm..." id="searchInput" />
+         <button id="searchBtn">
+          <img src="dấu tìm kiếm.png" alt="Tìm kiếm" class="search-icon" />
+        </button>
+      </div>
+
+      <div class="icons">
+        <img src="account.png" alt="Tài khoản" class="icon" />
+        <img src="giỏ_hàng.png" alt="Giỏ hàng" class="icon" id="cartIcon" />
+        <span class="badge" id="cartCount">0</span>
+      </div>
+    </nav>
+  </header>
+
+  <!-- Liên kết JavaScript -->
+  <script src="script.js"></script>
 </body>
 </html>
